@@ -6,7 +6,7 @@ introduction to python language.
 ## Prerequisites
 ### Configuration set-up:
 #### Env.requirements
-    Python 3
+Python 3
 
 ## Exprectdet outputs: 
   1. cyclic('abcd','bcda')- return False. 
